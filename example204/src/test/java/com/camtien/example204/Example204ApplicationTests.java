@@ -1,0 +1,13 @@
+package com.camtien.example204;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Example204ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
